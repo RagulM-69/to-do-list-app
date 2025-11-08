@@ -132,9 +132,8 @@ The application has been tested for:
 
 ## 🌐 Live Demo
 
-[View Live Demo on GitHub Pages](https://yourusername.github.io/to-do-list-app/)
+[View Live Demo on GitHub Pages](https://ragulm-69.github.io/to-do-list-app/)
 
-*Replace with your actual GitHub Pages URL*
 
 ## 🔮 Future Enhancements
 
